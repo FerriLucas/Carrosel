@@ -2,7 +2,10 @@
  
 Consegui criar um carrossel apenas utilizando HTML e CSS. 
 
-Agora, nos botões seletores das fotos disponíveis para exibição no carrossel, quero adicionar um preenchimento interno (barra de progresso) que vá de 0 a 100% no tempo de 10 segundos. 
-Onde o 0% inicia no tempo 0 e vai preenchendo (horizontalmente) seu espaço interno com alguma cor (vermelho) conforme o “tempo passa”. E ao chegar em 100%, após 10 segundos, a imagem exibida é alterada pela próxima imagem. 
+Agora, nos botões seletores das fotos disponíveis para exibição no carrossel, quero adicionar um -
+preenchimento interno (barra de progresso) que vá de 0 a 100% no tempo de 10 segundos. 
+Onde o 0% inicia no tempo 0 e vai preenchendo (horizontalmente) seu espaço interno com alguma cor -
+(vermelho) conforme o “tempo passa”. E ao chegar em 100%, após 10 segundos, a imagem exibida é -
+alterada pela próxima imagem. 
  
 Desejo realizar tais alterações utilizando Java Script! 
