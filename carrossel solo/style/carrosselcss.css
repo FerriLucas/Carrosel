@@ -71,16 +71,16 @@ input {
 }
 
 #img1{
-    background-image: url('banner.jpg');
+    background-image: url('../img/banner.jpg');
 }
 #img2{
-    background-image: url('banner01.jpg');
+    background-image: url('../img/banner01.jpg');
 }
 #img3{
-    background-image: url('banner02.jpg');
+    background-image: url('../img/banner02.jpg');
 }
 #img4{
-    background-image: url('banner03.jpg');
+    background-image: url('../img/banner03.jpg');
 }
 
 /* Info */
