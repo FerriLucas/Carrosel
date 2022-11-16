@@ -1,0 +1,39 @@
+#Progress_Status {
+    width: 1000px;
+      display: flex;
+      justify-content: space-between;
+  
+  }
+    
+  #myprogressBar, #myprogressBar2, #myprogressBar3, #myprogressBar4 {
+    width: 0;
+    height: 100%;
+    background-color: #4CAF50;
+    border-radius: 10px;
+  }
+  
+  .cc {
+      width: 20%;
+      border: 1px solid black;
+      margin: 10px 0 10px 0;
+      border-radius: 10px;
+      padding: 0;
+  }
+  
+  .last{
+      width: 100%;
+      height: 100%;
+      transform: translateY(-20px);
+      border-radius: 10px;
+      cursor: pointer;
+      opacity: 0;
+      position: relative;
+  }
+  
+  #img{
+      width: 500px;
+      height: 500px;
+      background: url("banner.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
